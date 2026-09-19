@@ -5,3 +5,7 @@ Answer: it is the industry standard for version control, allowing people/teams t
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the healthcare field to predict diseases and personalize patient care and organize/parse through medical records
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge preserves the exact historical timeline with a new merge commit, while rebase rewrites history to create a clean, linear chain of commits
