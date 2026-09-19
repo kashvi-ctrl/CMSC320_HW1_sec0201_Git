@@ -10,7 +10,7 @@ Answer: Data science can be applied to the healthcare field to predict diseases 
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: merge preserves the exact historical timeline with a new merge commit, while rebase rewrites history to create a clean, linear chain of commits
+Answer: merge preserves the exact historical timeline with a new merge commit, while rebase rewrites history to create a clean, linear chain of commits.
 
 Q4: What are you looking forward to this semester?
 
